@@ -1,2 +1,5 @@
 # AIDI2004_Lab2
 This repository contains ML models for Breast Cancer Wisconsin (Diagnostic) Data set.
+
+The objective of this assignment is to develop a machine learning model to predict breast cancer based on a given dataset.
+The process involves data preprocessing, exploratory data analysis (EDA), model training, and evaluation. The process begins with loading the dataset into a pandas DataFrame, followed by data preprocessing steps such as handling missing values, encoding categorical variables, and splitting the data into features and target variables. After preprocessing and EDA, a machine learning model, such as Logistic Regression, is trained using the training data. The model's performance is then evaluated on the test set using metrics like accuracy, precision, recall, and F1-score.
